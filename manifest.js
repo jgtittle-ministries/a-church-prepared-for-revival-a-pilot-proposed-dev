@@ -155,10 +155,6 @@ window.SERIES = [
       {
         "path": "docs/reference/01-how-these-foundations-were-tested.md",
         "title": "How These Foundations Were Tested"
-      },
-      {
-        "path": "docs/reference/02-what-the-reviews-saw.md",
-        "title": "What the Reviews Saw"
       }
     ]
   }
@@ -337,14 +333,6 @@ window.PATH_TO_INFO = {
     "seriesName": "Reference",
     "title": "How These Foundations Were Tested",
     "indexPath": "docs/reference/index.md",
-    "prev": "docs/reference/index.md",
-    "next": "docs/reference/02-what-the-reviews-saw.md"
-  },
-  "docs/reference/02-what-the-reviews-saw.md": {
-    "seriesId": "reference",
-    "seriesName": "Reference",
-    "title": "What the Reviews Saw",
-    "indexPath": "docs/reference/index.md",
-    "prev": "docs/reference/01-how-these-foundations-were-tested.md"
+    "prev": "docs/reference/index.md"
   }
 };
