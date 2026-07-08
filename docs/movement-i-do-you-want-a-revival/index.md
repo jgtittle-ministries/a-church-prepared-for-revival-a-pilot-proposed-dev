@@ -1,10 +1,10 @@
 # Movement I — Do You Want a Revival?
 
-> **Draft status:** movement skeleton — chapters to follow.
+> **Draft status:** working draft (DEV) — offered for prayer and honest discussion.
 
 The question sounds devotional. It is actually one of the most searching questions a church can be asked, and this movement exists to keep it from being answered too quickly.
 
-**What this movement will hold:**
+**What this movement holds:**
 
 - **The question itself** — an opening chapter that asks it pastorally and honestly: what we mean by revival, what we do not mean, and why "yes" must be allowed to cost something before it counts.
 - **What the record shows** — the revival model tested against history: how genuine moves of God arose, what they did to the churches that received them, and the drift by which every one of them eventually cooled. (Standalone treatment here; full foundations in *Intentional Journey of the Heart*, Volume 3.)

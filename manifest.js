@@ -37,8 +37,16 @@ window.SERIES = [
         "title": "Movement I — Do You Want a Revival?"
       },
       {
+        "path": "docs/movement-i-do-you-want-a-revival/01-the-question.md",
+        "title": "The Question"
+      },
+      {
         "path": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md",
         "title": "The Seven Letters: What Christ Says to a Church"
+      },
+      {
+        "path": "docs/movement-i-do-you-want-a-revival/03-what-the-record-shows.md",
+        "title": "What the Record Shows"
       }
     ]
   },
@@ -54,6 +62,18 @@ window.SERIES = [
       {
         "path": "docs/movement-ii-what-is-your-soil/index.md",
         "title": "Movement II — What Is Your Soil?"
+      },
+      {
+        "path": "docs/movement-ii-what-is-your-soil/01-the-four-soils.md",
+        "title": "The Four Soils"
+      },
+      {
+        "path": "docs/movement-ii-what-is-your-soil/02-hungry-hearts.md",
+        "title": "Hungry Hearts"
+      },
+      {
+        "path": "docs/movement-ii-what-is-your-soil/03-the-guardrails.md",
+        "title": "The Guardrails"
       }
     ]
   },
@@ -71,8 +91,24 @@ window.SERIES = [
         "title": "Movement III — Preparing the Soil"
       },
       {
+        "path": "docs/movement-iii-preparing-the-soil/01-it-starts-at-the-top.md",
+        "title": "It Starts at the Top"
+      },
+      {
+        "path": "docs/movement-iii-preparing-the-soil/02-the-vessel-before-the-rain.md",
+        "title": "The Vessel Before the Rain"
+      },
+      {
+        "path": "docs/movement-iii-preparing-the-soil/03-the-practices-that-till.md",
+        "title": "The Practices That Till"
+      },
+      {
         "path": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
         "title": "When the Ground Goes Dry"
+      },
+      {
+        "path": "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md",
+        "title": "The Pilot, Season by Season"
       }
     ]
   },
@@ -94,6 +130,10 @@ window.SERIES = [
         "title": "The Drift Downward"
       },
       {
+        "path": "docs/movement-iv-keeping-what-comes/02-how-revivals-were-lost.md",
+        "title": "How Revivals Were Lost"
+      },
+      {
         "path": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md",
         "title": "Handing the Fire"
       }
@@ -111,6 +151,14 @@ window.SERIES = [
       {
         "path": "docs/reference/index.md",
         "title": "Reference"
+      },
+      {
+        "path": "docs/reference/01-how-these-foundations-were-tested.md",
+        "title": "How These Foundations Were Tested"
+      },
+      {
+        "path": "docs/reference/02-what-the-reviews-saw.md",
+        "title": "What the Reviews Saw"
       }
     ]
   }
@@ -138,6 +186,14 @@ window.PATH_TO_INFO = {
     "title": "Movement I — Do You Want a Revival?",
     "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
     "prev": "docs/start-here.md",
+    "next": "docs/movement-i-do-you-want-a-revival/01-the-question.md"
+  },
+  "docs/movement-i-do-you-want-a-revival/01-the-question.md": {
+    "seriesId": "movement-i-do-you-want-a-revival",
+    "seriesName": "Movement I — Do You Want a Revival?",
+    "title": "The Question",
+    "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/index.md",
     "next": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md"
   },
   "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md": {
@@ -145,7 +201,15 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement I — Do You Want a Revival?",
     "title": "The Seven Letters: What Christ Says to a Church",
     "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
-    "prev": "docs/movement-i-do-you-want-a-revival/index.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/01-the-question.md",
+    "next": "docs/movement-i-do-you-want-a-revival/03-what-the-record-shows.md"
+  },
+  "docs/movement-i-do-you-want-a-revival/03-what-the-record-shows.md": {
+    "seriesId": "movement-i-do-you-want-a-revival",
+    "seriesName": "Movement I — Do You Want a Revival?",
+    "title": "What the Record Shows",
+    "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md",
     "next": "docs/movement-ii-what-is-your-soil/index.md"
   },
   "docs/movement-ii-what-is-your-soil/index.md": {
@@ -153,7 +217,31 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement II — What Is Your Soil?",
     "title": "Movement II — What Is Your Soil?",
     "indexPath": "docs/movement-ii-what-is-your-soil/index.md",
-    "prev": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/03-what-the-record-shows.md",
+    "next": "docs/movement-ii-what-is-your-soil/01-the-four-soils.md"
+  },
+  "docs/movement-ii-what-is-your-soil/01-the-four-soils.md": {
+    "seriesId": "movement-ii-what-is-your-soil",
+    "seriesName": "Movement II — What Is Your Soil?",
+    "title": "The Four Soils",
+    "indexPath": "docs/movement-ii-what-is-your-soil/index.md",
+    "prev": "docs/movement-ii-what-is-your-soil/index.md",
+    "next": "docs/movement-ii-what-is-your-soil/02-hungry-hearts.md"
+  },
+  "docs/movement-ii-what-is-your-soil/02-hungry-hearts.md": {
+    "seriesId": "movement-ii-what-is-your-soil",
+    "seriesName": "Movement II — What Is Your Soil?",
+    "title": "Hungry Hearts",
+    "indexPath": "docs/movement-ii-what-is-your-soil/index.md",
+    "prev": "docs/movement-ii-what-is-your-soil/01-the-four-soils.md",
+    "next": "docs/movement-ii-what-is-your-soil/03-the-guardrails.md"
+  },
+  "docs/movement-ii-what-is-your-soil/03-the-guardrails.md": {
+    "seriesId": "movement-ii-what-is-your-soil",
+    "seriesName": "Movement II — What Is Your Soil?",
+    "title": "The Guardrails",
+    "indexPath": "docs/movement-ii-what-is-your-soil/index.md",
+    "prev": "docs/movement-ii-what-is-your-soil/02-hungry-hearts.md",
     "next": "docs/movement-iii-preparing-the-soil/index.md"
   },
   "docs/movement-iii-preparing-the-soil/index.md": {
@@ -161,7 +249,31 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement III — Preparing the Soil",
     "title": "Movement III — Preparing the Soil",
     "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
-    "prev": "docs/movement-ii-what-is-your-soil/index.md",
+    "prev": "docs/movement-ii-what-is-your-soil/03-the-guardrails.md",
+    "next": "docs/movement-iii-preparing-the-soil/01-it-starts-at-the-top.md"
+  },
+  "docs/movement-iii-preparing-the-soil/01-it-starts-at-the-top.md": {
+    "seriesId": "movement-iii-preparing-the-soil",
+    "seriesName": "Movement III — Preparing the Soil",
+    "title": "It Starts at the Top",
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/index.md",
+    "next": "docs/movement-iii-preparing-the-soil/02-the-vessel-before-the-rain.md"
+  },
+  "docs/movement-iii-preparing-the-soil/02-the-vessel-before-the-rain.md": {
+    "seriesId": "movement-iii-preparing-the-soil",
+    "seriesName": "Movement III — Preparing the Soil",
+    "title": "The Vessel Before the Rain",
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/01-it-starts-at-the-top.md",
+    "next": "docs/movement-iii-preparing-the-soil/03-the-practices-that-till.md"
+  },
+  "docs/movement-iii-preparing-the-soil/03-the-practices-that-till.md": {
+    "seriesId": "movement-iii-preparing-the-soil",
+    "seriesName": "Movement III — Preparing the Soil",
+    "title": "The Practices That Till",
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/02-the-vessel-before-the-rain.md",
     "next": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md"
   },
   "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md": {
@@ -169,7 +281,15 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement III — Preparing the Soil",
     "title": "When the Ground Goes Dry",
     "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
-    "prev": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/03-the-practices-that-till.md",
+    "next": "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md"
+  },
+  "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md": {
+    "seriesId": "movement-iii-preparing-the-soil",
+    "seriesName": "Movement III — Preparing the Soil",
+    "title": "The Pilot, Season by Season",
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
     "next": "docs/movement-iv-keeping-what-comes/index.md"
   },
   "docs/movement-iv-keeping-what-comes/index.md": {
@@ -177,7 +297,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement IV — Keeping What Comes",
     "title": "Movement IV — Keeping What Comes",
     "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
-    "prev": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
+    "prev": "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md",
     "next": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md"
   },
   "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md": {
@@ -186,6 +306,14 @@ window.PATH_TO_INFO = {
     "title": "The Drift Downward",
     "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
     "prev": "docs/movement-iv-keeping-what-comes/index.md",
+    "next": "docs/movement-iv-keeping-what-comes/02-how-revivals-were-lost.md"
+  },
+  "docs/movement-iv-keeping-what-comes/02-how-revivals-were-lost.md": {
+    "seriesId": "movement-iv-keeping-what-comes",
+    "seriesName": "Movement IV — Keeping What Comes",
+    "title": "How Revivals Were Lost",
+    "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
+    "prev": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md",
     "next": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md"
   },
   "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md": {
@@ -193,7 +321,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement IV — Keeping What Comes",
     "title": "Handing the Fire",
     "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
-    "prev": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md",
+    "prev": "docs/movement-iv-keeping-what-comes/02-how-revivals-were-lost.md",
     "next": "docs/reference/index.md"
   },
   "docs/reference/index.md": {
@@ -201,6 +329,22 @@ window.PATH_TO_INFO = {
     "seriesName": "Reference",
     "title": "Reference",
     "indexPath": "docs/reference/index.md",
-    "prev": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md"
+    "prev": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md",
+    "next": "docs/reference/01-how-these-foundations-were-tested.md"
+  },
+  "docs/reference/01-how-these-foundations-were-tested.md": {
+    "seriesId": "reference",
+    "seriesName": "Reference",
+    "title": "How These Foundations Were Tested",
+    "indexPath": "docs/reference/index.md",
+    "prev": "docs/reference/index.md",
+    "next": "docs/reference/02-what-the-reviews-saw.md"
+  },
+  "docs/reference/02-what-the-reviews-saw.md": {
+    "seriesId": "reference",
+    "seriesName": "Reference",
+    "title": "What the Reviews Saw",
+    "indexPath": "docs/reference/index.md",
+    "prev": "docs/reference/01-how-these-foundations-were-tested.md"
   }
 };

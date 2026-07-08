@@ -1,10 +1,10 @@
 # Movement III — Preparing the Soil
 
-> **Draft status:** movement skeleton — chapters to follow.
+> **Draft status:** working draft (DEV) — offered for prayer and honest discussion.
 
 If Movement II found hungry hearts in your congregation, this movement is about what to do — and the order in which to do it. The order is the message.
 
-**What this movement will hold:**
+**What this movement holds:**
 
 - **It starts with the leadership — or it does not start.** The first soil to be tilled is the leadership's own. Before a church asks its members to open their hearts, its pastors and elders become a fellowship of the heart themselves: a small circle that actually practices hearing God together, tells one another the truth, and lets the Word reach their calendars and budgets and not just their doctrine. Whatever culture change that requires *is* the beginning of revival preparation — there is no route around it, because a congregation will not go where its leadership has not gone.
 - **Build the vessel before the rain.** Revivals in the record were lost partly because the churches that received them had nowhere to put what God sent — thousands awakened, and no formed leaders to walk with them. The answer proposed here is to develop small-group leadership *ahead of time*: a bench of ordinary members formed into companions and group leaders before they are needed. The mechanics for this exist and are already piloted — [*Fellowship of the Heart*](https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/) is the working model this book leans on, and this movement shows how a church would run that preparation as the second stage of the pilot.

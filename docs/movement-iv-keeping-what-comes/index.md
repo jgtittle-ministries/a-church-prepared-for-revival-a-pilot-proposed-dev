@@ -1,10 +1,10 @@
 # Movement IV — Keeping What Comes
 
-> **Draft status:** movement skeleton — chapters to follow.
+> **Draft status:** working draft (DEV) — offered for prayer and honest discussion.
 
 Every revival in the historical record cooled. That single fact shapes this whole movement — because the cooling was not random. It followed patterns, the patterns are describable, and a church that studies them *before* the rain has a chance the churches of the record did not take.
 
-**What this movement will hold:**
+**What this movement holds:**
 
 - **The drift downward, named.** The spine of this book: what the longer work behind it calls *drift* — the universal tendency of spiritual life, in a soul and in a church, to run downhill when it stops receiving. Why the fire fades by default; why maintaining yesterday's blessing takes today's obedience; why no church coasts upward.
 - **The failure modes of previous revivals.** The recurring ways moves of God were lost: the form outliving the power (structures kept polishing themselves after the life had gone); success manufacturing the comfort and riches that choke the next generation (the thorns grow *from* the harvest); the movement housed in one leader who could not be told hard truth and could not be succeeded; the hungry converted and never formed. Each failure mode is paired with the preparation that answers it — most of which this book has already walked you through, which is the point.

@@ -1,10 +1,10 @@
 # Reference
 
-> **Draft status:** section skeleton — material to follow.
+> **Draft status:** working draft (DEV) — offered for prayer and honest discussion.
 
 This section holds the deeper material behind the four movements, for readers — especially leaders — who want to see the foundations.
 
-**What this section will hold:**
+**What this section holds:**
 
 - **The research behind each movement** — standalone treatments of the revival record, the seven-churches diagnostics, the desolation differential, the drift-and-decay dynamics, and formation across generations, each readable on its own and each pointing into [*Intentional Journey of the Heart*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/) for the full scholarly base.
 - **How these foundations were tested.** Before this proposal was assembled, the twelve foundation documents behind it were each placed before an independent review panel — voices from measurement science, pastoral practice, clinical trauma care, missiology, and church history, asked to challenge the basic assumptions. A summary chapter will report what held (the core conviction that ordinary believers can hear and obey God survived all twelve reviews) and what the reviewers demanded (most of the guardrails in Movement II exist because reviewers insisted on them).
