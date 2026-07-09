@@ -7,7 +7,7 @@ window.SITE = {
     "label": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
-  "repo": "https://github.com/jgtittle-ministries/a-church-in-revival-a-pilot-proposed-dev"
+  "repo": "https://github.com/jgtittle-ministries/a-church-prepared-for-revival-a-pilot-proposed-dev"
 };
 
 window.SERIES = [

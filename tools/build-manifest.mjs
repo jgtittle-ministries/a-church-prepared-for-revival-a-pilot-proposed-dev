@@ -20,7 +20,7 @@ const SITE = {
   subtitle: 'A Pilot Proposed',
   envLabel: 'DEV',                 // '' for prod, 'DEV' for the dev repo (point 7)
   license: { label: 'CC BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0/' },
-  repo: 'https://github.com/jgtittle-ministries/a-church-in-revival-a-pilot-proposed-dev'
+  repo: 'https://github.com/jgtittle-ministries/a-church-prepared-for-revival-a-pilot-proposed-dev'
 };
 
 // Standalone root pages, in nav order, then series folders in nav order.
