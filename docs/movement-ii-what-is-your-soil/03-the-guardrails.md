@@ -30,6 +30,8 @@ There is one more edge to this. The most polished performers of spiritual depth 
 
 So: no scores. The diagnostics in this book produce understanding, conversation, and prayer. They never produce a number attached to a name.
 
+And beneath the no-scores rule sits a humility that deserves its own sentence: even the gentlest instrument reads only *degree* — practice, engagement, warmth, growth in what is already alive. No instrument reads *kind*. Whatever a church may learn about the condition of its hearts, the question of whether a heart has been *made new* is not on any instrument's dial, and tended ground must never be mistaken for new ground. The Lord kept that knowledge for Himself: *"The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit"* (John 3:8, ESV). Our tools may hear the sound. Only He knows the wind.
+
 ## 3. Consent and daylight
 
 **In this pilot, no one's heart is discussed, recorded, or reported upward without their knowledge and consent.**
@@ -41,6 +43,8 @@ It means no one gathers impressions of a member's spiritual condition from their
 Why so strict? Because secrecy is where shepherding curdles into surveillance. The same information — *this person seems distant from God lately* — is pastoral care when it lives in an open conversation with the person, and it is intelligence-gathering when it lives in a record they have never seen. Daylight is the difference. And there is a darker reason too, which any church that has walked with the wounded will recognize: gathering testimony about a person's soul from the people around them assumes those people are safe, and sometimes they are not. A rule of consent and daylight protects exactly the people who most need protecting, in exactly the situations leadership is least likely to see.
 
 Jesus gave His church a pattern for even its hardest conversations, and the pattern begins face to face: *"go and tell him his fault, between you and him alone"* (Matthew 18:15, ESV). If direct, personal, private-first conversation is His design for confronting *sin*, how much more is it His design for the far gentler work of asking about hunger? Nothing in this book requires knowing anything about anyone that they have not freely told you, in a conversation they knew they were having.
+
+One more thing, because tools outlive the conversations that created them: **consent has a clock.** Every instrument this pilot uses — every question set, every note-keeping practice — is brought back to the table once a year, re-explained, and re-consented, or it retires. Instruments acquire momentum; a survey that was explained carefully in Season One is, by Season Three, simply "the form we use," administered by people who were not in the room when its limits were promised. That is how wineskins stiffen — not by decision but by habit — and an instrument running on habit is running on yesterday's consent, which is no consent at all. Renewal or lapse, every year, including the guardrails on this very page: read aloud, chosen again, in fresh ink.
 
 ## 4. The least-powerful test
 
@@ -84,6 +88,8 @@ So we cap it. In this pilot, everything learned about individual hearts stays at
 
 If this feels restrictive, notice what it actually protects: the thing this whole movement is trying to find. Hungry hearts open at the shepherd's scale. They close — permanently — the first time they learn their honesty traveled somewhere they never sent it.
 
+And one rule for reading the shape of the field, without which every reading drifts quietly wrong: **the sent are not lost.** In any honest count, some of the departures are the harvest — members who left *outward*, to serve, to plant, to carry what they received into another room, another church, another city. A church that measures itself only by who stays will grieve its own fruit as decline, and — far worse — will slowly learn to stop producing it: to hold its best rather than send them, because sending always reads as loss on a keeps-only ledger. The Lord's arithmetic runs the other way: *"unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit"* (John 12:24, ESV). When the field's shape is read and lamented and prayed over, let the ledger have two columns — and let the grain that left the barn be counted where it belongs, among the fruit.
+
 ## Trust is soil
 
 One sentence gathers all seven commitments, and we offer it as the standard for this pilot and any church that takes it up: **measure nothing you will not weep over.**
@@ -96,4 +102,4 @@ These seven commitments govern what a church may *know*. Their structural twin �
 
 ---
 
-**Going deeper.** The convictions behind these guardrails — why hearts resist measurement, how spiritual knowledge and spiritual power interact, and what the record of past movements shows about both — are developed at length in [*Intentional Journey of the Heart*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/), the larger work this book rests on, particularly its treatment of measuring formation without deforming it. A Reference chapter at the back of this book describes the review process that pressed these commitments into their present form.
+**Going deeper.** The convictions behind these guardrails — why hearts resist measurement, how spiritual knowledge and spiritual power interact, and what the record of past movements shows about both — are developed at length in [*Intentional Journey of the Heart*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/), the larger work this book rests on, particularly its treatment of measuring formation without deforming it. A Reference chapter at the back of this book describes the review process that pressed these commitments into their present form. And for a church ready to adopt these commitments in practice, a signable form exists: the [Measurement Covenant](https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/reader.html#docs/shared/measurement-covenant.md) in the *Fellowship of the Heart* shared materials — the guardrails restated as ten commitments with a signature block, signed by every leader who will hold an instrument, renewed annually.
