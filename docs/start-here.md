@@ -30,3 +30,7 @@ One conviction shapes the sequence of this book more than any other: **preparati
 ## Reading time
 
 The four movements are deliberately short enough for a leadership team to read together across a handful of meetings, one movement at a time, with discussion. The Reference section is there for whoever wants to go further.
+
+## For the lead pastor and board
+
+If you carry the responsibility of actually deciding whether your church steps into this pilot, there is a page written for that room: [Deciding Together](deciding-together.md) — a six-meeting path from first reading to an honest yes or an honorable no, with the three questions at the center of the decision and a plain inventory of what a yes commits you to.

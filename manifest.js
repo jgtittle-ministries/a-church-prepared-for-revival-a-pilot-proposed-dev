@@ -24,6 +24,12 @@ window.SERIES = [
     "path": "docs/start-here.md"
   },
   {
+    "id": "deciding-together",
+    "kind": "page",
+    "name": "Deciding Together — A Path for the Lead Pastor and Board",
+    "path": "docs/deciding-together.md"
+  },
+  {
     "id": "movement-i-do-you-want-a-revival",
     "kind": "series",
     "name": "Movement I — Do You Want a Revival?",
@@ -178,6 +184,14 @@ window.PATH_TO_INFO = {
     "title": "Start here",
     "indexPath": "docs/start-here.md",
     "prev": "docs/index.md",
+    "next": "docs/deciding-together.md"
+  },
+  "docs/deciding-together.md": {
+    "seriesId": "deciding-together",
+    "seriesName": "Deciding Together — A Path for the Lead Pastor and Board",
+    "title": "Deciding Together — A Path for the Lead Pastor and Board",
+    "indexPath": "docs/deciding-together.md",
+    "prev": "docs/start-here.md",
     "next": "docs/movement-i-do-you-want-a-revival/index.md"
   },
   "docs/movement-i-do-you-want-a-revival/index.md": {
@@ -185,7 +199,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement I — Do You Want a Revival?",
     "title": "Movement I — Do You Want a Revival?",
     "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
-    "prev": "docs/start-here.md",
+    "prev": "docs/deciding-together.md",
     "next": "docs/movement-i-do-you-want-a-revival/01-the-question.md"
   },
   "docs/movement-i-do-you-want-a-revival/01-the-question.md": {

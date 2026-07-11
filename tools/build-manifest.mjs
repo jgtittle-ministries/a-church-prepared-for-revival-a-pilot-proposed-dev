@@ -24,7 +24,7 @@ const SITE = {
 };
 
 // Standalone root pages, in nav order, then series folders in nav order.
-const ROOT_PAGES = ['index.md', 'start-here.md'];
+const ROOT_PAGES = ['index.md', 'start-here.md', 'deciding-together.md'];
 const SERIES_DEFS = [
   { id: 'movement-i-do-you-want-a-revival',  name: 'Movement I — Do You Want a Revival?',  nav: 'Movement I',   edition: null },
   { id: 'movement-ii-what-is-your-soil',     name: 'Movement II — What Is Your Soil?',     nav: 'Movement II',  edition: null },
