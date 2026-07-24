@@ -33,5 +33,11 @@
 ## Disposition summary
 
 - **No-action validations:** items 1, 6, 7.
-- **Revision candidates (await the founder's direction):** items 2 (Record examples — needs research), 4 (calendar examples — needs research), 5 (facilitator profile — draftable now), 8 (Wesley/Finney contrast — draftable now), 10 (humility/submission/love counterweight — draftable now).
+- **All five revision candidates DRAFTED 2026-07-24 (founder directed; research verified via BibleGateway-independent web sources before drafting):**
+  - Item 2 → *What the Record Shows*: Jesus Movement paragraph added to "When the Fire Fell" (Time cover June 1971 "The New Rebel Cry: Jesus Is Coming!"; Explo '72 Cotton Bowl 80,000 — a Campus Crusade event, fittingly, given the suggester; worldwide spread; verified vs. Wikipedia) + St. Paul's Darien/Fullam paragraph added to "What Made the Difference" (1972 call; the "one condition — Christ the true head"; attendance ~doubled in 3 years, giving +136% — verified vs. the Christianity Today obituary; *Miracle in Darien*, Slosser, 1980). The famous vestry-unanimity detail did NOT verify in sources checked and was deliberately not claimed.
+  - Item 4 → *It Starts at the Top*, after "It costs the calendar": Brooklyn Tabernacle (Cymbala, 1971, a few dozen on Atlantic Avenue → thousands weekly; *Fresh Wind, Fresh Fire* as the declared-engine story; verified vs. Wikipedia) + Korean dawn prayer (born of the 1907 Pyongyang revival; verified). "They killed something else to get those hours."
+  - Item 5 → *It Starts at the Top*, new "What to look for in that outside help" paragraph: three marks (no stake / surfacing the unsaid / formation-first) + the scar-tissue test ("listen for whether they grieve for rooms like yours, or merely analyze them").
+  - Item 8 → *How Revivals Were Lost*, "Awakened, and Never Formed": explicit Wesley-vs-Finney contrast paragraph ("The difference between the two men was never the fire. It was that one of them built barns."), pointing to the Vol 3 chapter already named in Going Deeper.
+  - Item 10 → *Deciding Together*: new bullet after the energy bullet — humility/submission/love as energy's necessary counterweight, framed with the founder's balancing-measure discipline (1 Cor 13:1).
 - **Follow-up meeting:** items 9 (which revival; permission to capture) and 3 (his vestry?) carry into it.
+- **Status: drafts on dev, UNMIRRORED — awaiting the founder's review and "mirror."**

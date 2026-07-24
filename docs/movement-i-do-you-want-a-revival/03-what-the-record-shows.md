@@ -26,11 +26,13 @@ At Herrnhut, a covenanted community — a people who had bound themselves togeth
 
 At Azusa Street, weeks of prayer preceded the outpouring, and then a newspaper carried word of it around the world.
 
+And within the lifetime of many still worshiping: the Jesus Movement, beginning in the late 1960s among the castaways of the American counterculture, put mass baptisms in the Pacific surf and then went around the world. Time magazine gave its cover story of June 1971 to "The New Rebel Cry: Jesus Is Coming!"; the next summer, eighty thousand young people filled the Cotton Bowl in Dallas for Explo '72; and the wave ran on through North America, Europe, Central America, Australia, and New Zealand — leaving behind whole church families that did not exist before it, and the songs half the church now sings on Sunday. A generation nobody expected to want God turned out to be the hungriest field of its century.
+
 And within living memory: at Asbury in 2023, a routine chapel service simply did not end, and over sixteen days tens of thousands came — word traveling this time not by newspaper but by TikTok.
 
 William James, who studied this phenomenon carefully a century ago, described the sudden work of God in a surrendered soul as breaking through all barriers and sweeping in "like a sudden flood." Every generation of witnesses says some version of the same thing. Whatever explanation anyone prefers, the *events* are not in doubt: there are moments in history when God moves on a whole community at once, and the community knows it.
 
-That is the first thing the record shows, and a church asking "do we want this?" should hear it clearly: **this really happens.** Not only in Acts. In Massachusetts, in Kentucky, in Wales, in the Hebrides, in Saxony, in Los Angeles, in Kentucky again in 2023. The fire is real.
+That is the first thing the record shows, and a church asking "do we want this?" should hear it clearly: **this really happens.** Not only in Acts. In Massachusetts, in Kentucky, in Wales, in the Hebrides, in Saxony, in Los Angeles, on the beaches of California and around the world in the 1970s, in Kentucky again in 2023. The fire is real.
 
 ## The Shape of the Rise
 
@@ -83,6 +85,8 @@ Scripture named this law before anyone measured it. At Pentecost, the three thou
 And the record obeys, on both sides of the ledger. Azusa's mission building was gone by 1931 — but the movement it birthed endured, and Pentecostalism now claims hundreds of millions, because the fire was carried into churches, structures, bodies. Herrnhut turned its Pentecost into a prayer watch that ran for a hundred years. The founding event fades; what was *built to hold the fire* is what carries it forward.
 
 Say the conclusion the way the record forces us to say it: **durability is not automatic. It is built.** The revivals that left something behind are the ones where somebody — before or immediately after the outpouring — constructed the vessel: follow-up, fellowship, teaching, prayer rhythms, a body to belong to. The ones that evaporated are the ones where the crowd went home warmed and unheld.
+
+The record even carries the law at the scale this book is actually addressed to — one congregation. In 1972 a Connecticut parish called Everett "Terry" Fullam as rector, and he accepted on one condition: that Christ be the true head of the church — not honorarily, but operationally, in how the parish made its decisions and spent its life. What followed at St. Paul's, Darien was not a crowd event but a sustained congregational renewal: attendance nearly doubled in three years, giving grew faster still, and an ordinary suburban parish became one of the most-watched churches in the country — not for a technique, but for a headship. The story was documented in Bob Slosser's *Miracle in Darien* (1980), and church boards have used it as a manual ever since — vestries and laity traveled to Darien for conferences, and Darien's own teams traveled out to other churches' vestry retreats. It is the nearest thing the modern record offers to this book's thesis demonstrated at parish scale: settle the headship question first, build the vessel around it, and the fire is held — for years, in one ordinary church, with the record kept.
 
 This book gives that law a full chapter of its own — how vessels harden as well as leak, and what keeps a wineskin supple across years — in [The Drift Downward](../movement-iv-keeping-what-comes/01-the-drift-downward.md). Here it is enough to hear the record's testimony: the fire that was banked endured. The fire that was only enjoyed drained.
 
